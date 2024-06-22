@@ -21,7 +21,7 @@ This command will generate a ZIP file.
 
 ### Install the theme
 
-1. Enable `xpinstall.signatures.required` in `about:config`.
+1. Set `xpinstall.signatures.required` to `false` in `about:config`.
 2. Click `Install Add-on From File...` in `about:addons`. Select the ZIP file built in the previous step.
 
 ## Credit
