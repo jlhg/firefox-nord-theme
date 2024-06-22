@@ -44,10 +44,10 @@
       "toolbar_vertical_separator": "#81A1C1"
     }
   },
-	"browser_specific_settings": {
-		"gecko": {
-			"id": "{cd33557d-f22f-47fb-84a5-cc2f6bf0bf69}",
-			"strict_min_version": "42.0"
-		}
-	}
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{cd33557d-f22f-47fb-84a5-cc2f6bf0bf69}",
+      "strict_min_version": "42.0"
+    }
+  }
 }
