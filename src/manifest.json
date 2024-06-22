@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Nord Theme",
-  "version": "1.4",
+  "version": "1.0",
   "description": "A Firefox Theme designed with nord color palette.",
   "theme": {
     "colors" : {
