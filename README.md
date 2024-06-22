@@ -1,4 +1,4 @@
-# Nord Dark Theme
+# Nord Theme for Firefox
 
 ## Installation
 
