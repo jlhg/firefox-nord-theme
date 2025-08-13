@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Nord Theme",
-  "version": "1.0",
+  "version": "1.2",
   "description": "A Firefox Theme designed with nord color palette.",
   "theme": {
     "colors" : {
@@ -46,8 +46,8 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "{cd33557d-f22f-47fb-84a5-cc2f6bf0bf69}",
-      "strict_min_version": "42.0"
+      "id": "{9c6fb09e-4fd1-49d5-952a-ac6198441646}",
+      "strict_min_version": "67.0"
     }
   }
 }
